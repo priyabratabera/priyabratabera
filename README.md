@@ -2,7 +2,7 @@
 
 ### Frontend Tech Lead | Senior Full Stack Engineer | AI Engineer
 
-**16+ years of experience** building scalable, high-performance web applications with a strong focus on **React, Next.js, JavaScript, TypeScript, Node.js, and modern web technologies**.
+**15+ years of experience** building scalable, high-performance web applications with a strong focus on **React, Next.js, JavaScript, TypeScript, Node.js, and modern web technologies**.
 
 Currently expanding my expertise in **Generative AI, LLM applications, RAG, Vector Databases, AI Agents, and AI-powered applications**.
 
@@ -271,7 +271,7 @@ Continuously Improve
 
 ## 🔗 Connect With Me
 
-* 💼 LinkedIn: **[Add your LinkedIn URL]**
+* 💼 LinkedIn: **[https://www.linkedin.com/in/priyabrata-bera-6501b019/]**
 * 🌐 Portfolio: **[Add your portfolio URL]**
 * 📧 Email: **[Add your email]**
 
