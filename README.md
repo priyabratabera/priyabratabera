@@ -271,9 +271,9 @@ Continuously Improve
 
 ## 🔗 Connect With Me
 
-* 💼 LinkedIn: **[https://www.linkedin.com/in/priyabrata-bera-6501b019/]**
-* 🌐 Portfolio: **[Add your portfolio URL]**
-* 📧 Email: **[Add your email]**
+* 💼 LinkedIn: **https://www.linkedin.com/in/priyabrata-bera-6501b019/**
+* 🌐 Portfolio: **https://www.priyabrata.tech/**
+* 📧 Email: **priyabrata.bera@gmail.com**
 
 ---
 
