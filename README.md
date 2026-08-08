@@ -1,6 +1,6 @@
 # Hi 👋, I'm Priyabrata Bera
 
-### Senior Frontend Engineer | AI Engineer
+### Frontend Tech Lead | Senior Full Stack Engineer | AI Engineer
 
 **16+ years of experience** building scalable, high-performance web applications with a strong focus on **React, Next.js, JavaScript, TypeScript, Node.js, and modern web technologies**.
 
