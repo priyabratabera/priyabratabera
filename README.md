@@ -15,3 +15,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+15+ Years Experience
+
+React | Next.js | JavaScript | TypeScript
+Node.js | Python | FastAPI
+
+        ↓
+
+Generative AI
+RAG
+LLM Applications
+Vector Databases
+AI Agents
+
+        ↓
+
+Featured Projects
+
+🤖 AI Chatbot
+📚 Production RAG
+📰 AI News Recommendation System
+
+        ↓
+
+Experience
+Economic Times / Times of India
+High Traffic Web Applications
