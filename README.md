@@ -1,4 +1,5 @@
-## Hi there 👋
+## Priyabrata Bera
+Senior Frontend Engineer → AI Engineer
 
 <!--
 **priyabratabera/priyabratabera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
