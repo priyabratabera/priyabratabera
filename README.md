@@ -10,7 +10,7 @@ Currently expanding my expertise in **Generative AI, LLM applications, RAG, Vect
 
 ## 👨‍💻 About Me
 
-* 💼 16+ years of experience in Frontend & Web Engineering
+* 💼 15+ years of experience in Frontend & Web Engineering
 * 🚀 Experienced in building and maintaining **high-traffic production applications**
 * ⚛️ Strong expertise in **React, Next.js, JavaScript and TypeScript**
 * 🟢 Backend experience with **Node.js**
@@ -279,6 +279,6 @@ Continuously Improve
 
 ### ⭐ Featured Projects
 
-I'm actively building projects that combine my **16+ years of frontend engineering experience with Generative AI**.
+I'm actively building projects that combine my **15+ years of frontend engineering experience with Generative AI**.
 
 If you're interested in **AI applications, RAG, frontend architecture, web performance, or scalable web systems**, feel free to connect.
